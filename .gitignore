@@ -1,0 +1,28 @@
+# Secrets
+server/.env
+.env
+.env.local
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node
+web/node_modules/
+web/dist/
+*.log
+npm-debug.log*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Vite cache
+web/node_modules/.vite/
