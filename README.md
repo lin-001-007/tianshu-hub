@@ -12,7 +12,7 @@
 - **多种可视化**：反应堆线框核心、波形图、雷达图、柱图、环形图、遥测指标矩阵
 - **系统日志**：Windows 事件 + 遥测动态；可选 DashScope AI 将英文报错概括成中文
 - **可拖拽布局**：面板宽度/高度自动保存到浏览器 localStorage
-- **桌面模式**：Edge Kiosk 全屏，或配合 [Lively Wallpaper](https://github.com/rocksdanister/lively) 作动态壁纸
+- **桌面模式**：Edge Kiosk 全屏，或配合 [Lively Wallpaper](https://github.com/rocksdanister/lively) 作动态壁纸，壁纸软件19.9元，一次买断永久免费
 
 ## 快速开始
 
