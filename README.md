@@ -1,5 +1,7 @@
 # 天枢 HUD (Tianshu Hub)
 
+<img width="1901" height="920" alt="image" src="https://github.com/user-attachments/assets/b7bfaf74-532f-43bc-bf95-a5195cc37de1" />
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 科幻风 Windows 桌面系统遥测大屏 · **16+ 性能指标** · 反应堆全息动画 · 实时日志 · 可选 AI 中文概括
@@ -13,6 +15,7 @@
 - **系统日志**：Windows 事件 + 遥测动态；可选 DashScope AI 将英文报错概括成中文
 - **可拖拽布局**：面板宽度/高度自动保存到浏览器 localStorage
 - **桌面模式**：Edge Kiosk 全屏，或配合 [Lively Wallpaper](https://github.com/rocksdanister/lively) 作动态壁纸，壁纸软件19.9元，一次买断永久免费
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/4fc8716b-a09f-4d12-a4ff-da9206115bc2" />
 
 ## 快速开始
 
